@@ -3,10 +3,10 @@
 ### EDIT HERE ###
 
 // DB CONNECT INFO
-$db_host = "localhost";
-$db_name = "tomblog";
-$db_user = "root";
-$db_pw = "root";
+$db_host = "nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$db_name = "pp9re17jou3m8tki";
+$db_user = "zyon0b15hu56mfzf";
+$db_pw = "soqikf537ljqn829";
 
 // DB TABLE INFO
 $GLOBALS['hits_table_name'] = "page_hits";
