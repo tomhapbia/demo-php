@@ -1,8 +1,8 @@
 <?php
-	$dbServer = 'localhost';
-	$dbUsername = 'root';
-	$dbPassword = 'root';
-	$dbDatabase = 'tomblog';
+	$dbServer = 'nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+	$dbUsername = 'zyon0b15hu56mfzf';
+	$dbPassword = 'soqikf537ljqn829';
+	$dbDatabase = 'pp9re17jou3m8tki';
 
 	$adminConfig = array(
 		'adminUsername' => "admin",
